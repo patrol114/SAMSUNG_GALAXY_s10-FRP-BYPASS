@@ -135,6 +135,11 @@ Now you just need download google account manager and add a new account and the 
 
 ![Screenshot](.previews/53.jpg)       
 
+
+#### XDA-DEVELOPERS FORUM
+
+https://forum.xda-developers.com/galaxy-s10/themes/frp-bypass-samsung-s10-100-t4066211
+
 #### REMINDER FOR MYSELF
 
 * ? Google pay service choose disable
