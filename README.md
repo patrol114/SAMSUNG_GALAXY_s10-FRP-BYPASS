@@ -36,8 +36,6 @@ One method is via NFC, the second option is via OTG cable between one android de
 
 ![Screenshot](.previews/7.jpg)
 
-![Screenshot](.previews/8.jpg)
-
 #### Now press on the three dots in upper right corner and choose "Show System" option, there is many options you can choose here. 
 
 ![Screenshot](.previews/10.jpg)
