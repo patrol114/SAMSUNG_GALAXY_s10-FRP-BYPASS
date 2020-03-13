@@ -34,9 +34,9 @@ One method is via NFC, the second option is via OTG cable between one android de
 
 ![Screenshot](.previews/7.jpg)
 
-* Now you should see Storage, Camera and Microphone, choose Storage option here and then press on *See all apps with this permission*
-
 ![Screenshot](.previews/8.jpg)
+
+* Now you should see Storage, Camera and Microphone, choose Storage option here and then press on *See all apps with this permission*
 
 * Now press on the three dots in upper right corner and choose "Show System" option, there is many options you can choose here. 
 
