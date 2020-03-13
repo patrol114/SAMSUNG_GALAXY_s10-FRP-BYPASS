@@ -2,11 +2,11 @@
 
 This is one of the first (first, i guess?) wiki that works on latest firmware on samsung galaxy S10 for bypassing FRP Protection by this method.
 
-* This works!! No simcard need to be inserted, no puk code need to be used or other crap I have seen on all other videos, *none* of all those you find on youtube is fake or working on older firmware!!!
+This method works!! No simcard is need to be inserted, no puk code is need to be used or other crap I have seen on alot of places, this is simple and a very easy way to frp bypass your samsung galaxy 10 without paying money for "pro" tools, this method is so easy so even your grandmother would succeed.
 
-There is three ways I have found that allows anyone to bypass FRP ezi on the latest firmware (2020-03-14)! 
+Totally there is three ways that I have found that allows anyone to bypass FRP very easy on the latest firmware (2020-03-14)!
 
-One method is via NFC, the second option is via OTG cable between one android device on android v9.0 and you samssung s10 that is on android v10.0 and the third option is the most easy one so i decided to describe it for you all out there. This is 
+One method is via NFC, the second option is via OTG cable between one android device on android v9.0 and your samsung s10 that is on android v10.0 and the third option is the most easy one so i decided to describe it for you all out there.
 
 # HOWTO
 
