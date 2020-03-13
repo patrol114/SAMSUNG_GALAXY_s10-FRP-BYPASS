@@ -1,6 +1,6 @@
 # README
 
-This is probably one of the earliest wiki that works on latest firmware on samsung S10 by bypassing FRP Protection on Github :)
+This is one of the first (first, i guess?) wiki that works on latest firmware on samsung galaxy S10 for bypassing FRP Protection by this method.
 
 * This works!! No simcard need to be inserted, no puk code need to be used or other crap I have seen on all other videos, *none* of all those you find on youtube is fake or working on older firmware!!!
 
