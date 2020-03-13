@@ -18,7 +18,7 @@ One method is via NFC, the second option is via OTG cable between one android de
 
 ![Screenshot](.previews/1.jpg)
  
-* Take a screenshot at welcome screen with power + vol down, you will see "Allow samsung cature to access photos, media and files of your device" - Choose *Deny* here. 
+* Take a screenshot at welcome screen with power + vol down, you will see "Allow samsung capture to access photos, media and files of your device" - Choose *Deny* here. 
 
 ![Screenshot](.previews/2.jpg)
 
