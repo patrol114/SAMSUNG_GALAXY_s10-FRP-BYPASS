@@ -8,7 +8,42 @@ Totally there is three ways that I have found that allows anyone to bypass FRP v
 
 One method is via NFC, the second option is via OTG cable between one android device on android v9.0 and your samsung s10 that is on android v10.0 and the third option is the most easy one so i decided to describe it for you all out there.
 
-# HOWTO
+# HOWTO - SHORT
+
+* Turn off the device and remove simcard.
+
+
+* Enter recovery mode by keep device off and then press volume up + bixby + power button
+
+* Wipe cache and do a factory reset and then choose to reboot your device
+
+* Phone will now start as normal, change language to your prefered language
+
+* Take a screenshot at welcome screen with power + vol down, you will see "Allow samsung capture to access photos, media and files of your device" - Choose 'Deny' here.
+
+* Take another screenshot at welcome screen, an extra option that is 'Deny & dont ask again' - Choose this one this time
+
+* Now, take a third screenshot at welcome screen and you will get a totally different option, You will get a Allow Permission window popup instead now, choose 'Site Settings' here.
+
+* You will now get into Samsung Capture option, choose to allow permissions for storage if you want to be able to take screenshot, however the important part is to go to Permission option.
+
+* Now you should see 'Storage, Camera and Microphone, choose Storage' option here and then press on See all apps with this permission
+
+* Now press on the three dots in upper right corner and choose "Show System" option
+
+* There is many options you can choose here, let us browse down to "Google Chrome/Chrome" browser - Edit option from Deny to Allow and then press on see all Chrome permissions if you want to start chrome for example.
+
+* But even more interesting is that you will see settings icon at top, press on 'See all Settings permissions' - In next window just double click the settings icon at top for get to next window and now in down left corner - Choose 'Open' and you're in settings!
+
+* Scroll to bottom and press on 'about phone' and u will see "Reset" button, press on it to reset settings only and keep your data. (optional)
+
+* Now you just need download google account manager and add a new account and the old one will be overwritten (use web login in google account manager by pressing in upper right corner when you started account manager). If you want to join System UI just choose system ui in quickshortcutmaker.
+
+quickshortcutmaker can be downloaded from: https://nr1.nu/apk-files/q.apk
+
+Pictures can be found on my github: https://github.com/wuseman/SAMSUNG_G...10-FRP-BYPASS/
+
+Enjoy your fully unlocked Samsung Galaxy 10 device.
 
 #### Turn off device
 
