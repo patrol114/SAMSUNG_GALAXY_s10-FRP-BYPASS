@@ -10,6 +10,8 @@ One method is via NFC, the second option is via OTG cable between one android de
 
 # HOWTO
 
+#### Turn off device
+
 #### Enter recovery mode by keep device off and then press volume up + bixby + power button
 
 #### Wipe cache and do a factory reset and then choose to reboot your device
@@ -40,11 +42,13 @@ One method is via NFC, the second option is via OTG cable between one android de
 
 #### Now press on the three dots in upper right corner and choose "Show System" option, there is many options you can choose here. 
 
+![Screenshot](.previews/10.jpg)
+
 ![Screenshot](.previews/9.jpg)
 
 #### Now you see settings icon at top, press on *See all Settings permissions* and in next window just duouble click the settings icon at top for get to next window and now in down left corner - Choose *Open* and you're in settings!
 
-![Screenshot](.previews/10.jpg)
+![Screenshot](.previews/16.jpg)
 
 #### Scroll to bottom and press on about phone, at bottom you will now see "Reset" button, press on it to reset settings but keep data
 
