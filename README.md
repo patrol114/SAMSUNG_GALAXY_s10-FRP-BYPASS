@@ -10,50 +10,56 @@ One method is via NFC, the second option is via OTG cable between one android de
 
 # HOWTO
 
-* Enter recovery mode by keep device off and then press volume up + bixby + power button
+#### Enter recovery mode by keep device off and then press volume up + bixby + power button
 
-* Wipe cache and do a factory reset and then choose to reboot your device
+#### Wipe cache and do a factory reset and then choose to reboot your device
 
-* Phone will now start as normal, change language to you prefered language
+#### Phone will now start as normal, change language to you prefered language
 
 ![Screenshot](.previews/1.jpg)
  
-* Take a screenshot at welcome screen with power + vol down, you will see "Allow samsung capture to access photos, media and files of your device" - Choose *Deny* here. 
+#### Take a screenshot at welcome screen with power + vol down, you will see "Allow samsung capture to access photos, media and files of your device" - Choose *Deny* here. 
 
 ![Screenshot](.previews/2.jpg)
 
-* Take another screenshot at welcome screen, an extra option that is *Deny & dont ask again* - Choose this one this time.
+#### Take another screenshot at welcome screen, an extra option that is *Deny & dont ask again* - Choose this one this time.
 
 ![Screenshot](.previews/4.jpg)
 
-* Now, take a third screenshot at welcome screen and you will get a totally different option, A Allow Permission window will pop up instead now, choose  *Site Settings* here. 
+#### Now, take a third screenshot at welcome screen and you will get a totally different option, A Allow Permission window will pop up instead now, choose  *Site Settings* here. 
 
 ![Screenshot](.previews/6.jpg)
 
-* You will now get into Samsung Capture option, choose to allow permissions for storage if you want to be able to take screenshot, however the important part is to go to Permission option.
+#### You will now get into Samsung Capture option, choose to allow permissions for storage if you want to be able to take screenshot, however the important part is to go to Permission option.
 
 ![Screenshot](.previews/7.jpg)
 
 ![Screenshot](.previews/8.jpg)
 
-* Now you should see Storage, Camera and Microphone, choose Storage option here and then press on *See all apps with this permission*
+#### Now you should see Storage, Camera and Microphone, choose Storage option here and then press on *See all apps with this permission*
 
-* Now press on the three dots in upper right corner and choose "Show System" option, there is many options you can choose here. 
+#### Now press on the three dots in upper right corner and choose "Show System" option, there is many options you can choose here. 
 
 ![Screenshot](.previews/9.jpg)
 
-* Now you see settings icon at top, press on *See all Settings permissions* and in next window just duouble click the settings icon at top for get to next window and now in down left corner - Choose *Open* and you're in settings!
+#### Now you see settings icon at top, press on *See all Settings permissions* and in next window just duouble click the settings icon at top for get to next window and now in down left corner - Choose *Open* and you're in settings!
 
 ![Screenshot](.previews/10.jpg)
 
-* Scroll to bottom and press on about phone, at bottom you will now see "Reset" button, press on it to reset settings but keep data
+#### Scroll to bottom and press on about phone, at bottom you will now see "Reset" button, press on it to reset settings but keep data
 
 ![Screenshot](.previews/11.jpg)
 
 
-Now you just need download google account manager and add a new account and the old one will be overwritten.
+#### Now you just need download google account manager and add a new account and the old one will be overwritten.
 
-### Some random pictures: 
+#### quickshortcutmaker can be downloaded from: https://nr1.nu/apk-files/q.apk
+
+#### Enjoy your fully unlocked Samsung Galaxy 10 device.
+
+#### // wuseman
+
+# Random Pictures: 
 
 ![Screenshot](.previews/12.jpg)       
 
