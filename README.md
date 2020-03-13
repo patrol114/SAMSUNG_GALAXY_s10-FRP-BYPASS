@@ -8,10 +8,9 @@ Totally there is three ways that I have found that allows anyone to bypass FRP v
 
 One method is via NFC, the second option is via OTG cable between one android device on android v9.0 and your samsung s10 that is on android v10.0 and the third option is the most easy one so i decided to describe it for you all out there.
 
-# HOWTO - SHORT
+# HOWTO - SHORT VERSION:
 
 * Turn off the device and remove simcard.
-
 
 * Enter recovery mode by keep device off and then press volume up + bixby + power button
 
@@ -44,6 +43,8 @@ quickshortcutmaker can be downloaded from: https://nr1.nu/apk-files/q.apk
 Pictures can be found on my github: https://github.com/wuseman/SAMSUNG_G...10-FRP-BYPASS/
 
 Enjoy your fully unlocked Samsung Galaxy 10 device.
+
+# HOWTO - LONG VERSION WITH PICTURES:
 
 #### Turn off device
 
