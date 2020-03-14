@@ -89,8 +89,6 @@ Now you just need download google account manager and add a new account and the 
 
 ![Screenshot](.previews/28.jpg)       
 
-![Screenshot](.previews/29.jpg)       
-
 ![Screenshot](.previews/30.jpg)       
 
 ![Screenshot](.previews/31.jpg)       
